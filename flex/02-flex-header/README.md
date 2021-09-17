@@ -16,3 +16,8 @@ wide:
 - list-items are horizontal, and are centered vertically inside the header
 - left-links and right-links are pushed all the way to the left and right, and stay at the edge of the header when the page is resized.
 - This exercise does not use floats, inline-block, or absolute positioning.
+
+
+What I learned:
+
+I learned how to put items in a div. How to center items in a div. How to make use of a display flex and how to space between items in a container and gap texts in a  list.
