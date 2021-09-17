@@ -1,0 +1,14 @@
+.james {
+    background-color: black;
+    color: white;
+}
+
+.john {
+    background-color: yellow;
+    color: black;
+}
+
+.james, .john {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+}

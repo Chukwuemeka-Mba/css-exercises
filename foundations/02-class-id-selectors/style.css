@@ -1,0 +1,33 @@
+.one {
+    color: blue;
+    padding: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#two {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+}
+
+.three {
+    font-style: italic;
+    font-weight: 1000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+    margin-left: 30px;
+    text-align: center;
+}
+
+#four {
+    margin-left: 70px;
+    font-weight: 800;
+    text-shadow: slateblue, 20px;
+    text-underline-position: below;
+
+}
+
+.five {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    color: salmon;
+}
