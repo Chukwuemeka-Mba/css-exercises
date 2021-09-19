@@ -29,6 +29,7 @@ body {
 
 /* Solution  */
 
+
 .header {
   display: flex;
   align-items: center;
@@ -88,5 +89,5 @@ a {
   width: auto;
   padding: 10px;
   margin: 10px;
-  font-size: 13px;
+  font-size: 13px; 
 }

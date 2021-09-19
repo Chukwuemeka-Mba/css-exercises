@@ -1,5 +1,13 @@
 # The Holy Grail of Layout
 
+
+# Okay, Biiiiiiig Difference with my own initial solution. The href="./solution.css" file doesn't work on my system and is markedly different from my solution. 
+
+# Didn't make use of the required styles and achieved a good but suboptimal result. 
+
+# Redoing it.
+
+
 In this last flexbox exercise you're going to recreate an incredibly common website layout. It is so common that it is often called the [holy-grail](https://www.google.com/search?q=holy+grail+layout&tbm=isch&sclient=img) layout.... and with flexbox it is actually pretty easy to pull off.
 
 As with the previous exercise, we've left a little more for you to do.
