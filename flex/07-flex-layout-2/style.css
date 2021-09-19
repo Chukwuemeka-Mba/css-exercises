@@ -17,7 +17,7 @@ body {
 }
 
 .sidebar {
-  width: 300px;
+  width: 200px;
   background: royalblue;
 }
 
@@ -25,4 +25,68 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+}
+
+/* Solution  */
+
+.header {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 0px 8px;
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 5px;
+  font-size: 15px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: 400;
+}
+
+.sidebar {
+  position: fixed;
+  left: 0;
+  height: 100%;
+  padding-top: 80px;
+  padding-left: 0px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  font-weight: bold;
+}
+
+.cards {
+  column-count: 2;
+  padding-left: 220px;
+  padding-right: 20px;
+  padding-top: 92px;
+}
+
+.card {
+  height: 150px;
+  width: auto;
+  padding: 10px;
+  margin: 10px;
+  font-size: 13px;
 }
